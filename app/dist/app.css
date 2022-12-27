@@ -1326,11 +1326,11 @@ a {
 }
 @media only screen and (max-width: 767px) {
   .banner .banner__left {
-    padding: 40px 0 100px;
+      padding: 40px 0 20px;
   }
 }
 .banner .banner__left {
-  margin-top: 130px;
+  /* margin-top: 60px; */
   column-gap: 64px;
 }
 .banner .banner__left .pay h6 {
