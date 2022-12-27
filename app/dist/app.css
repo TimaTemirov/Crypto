@@ -5577,7 +5577,7 @@ section.banner.s3.s2 .container .swiper-button-prev {
 .slick-slide {
   margin-right: 40px ;
 }
-p, li {
+p, li,b {
   font-size: 18px !important;
 }
 .pay {
